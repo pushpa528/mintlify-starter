@@ -14,11 +14,11 @@
         "group": "Getting Started",
         "pages": [
           "index",
+          "index-2",
           "quickstart"
         ]
       },
-      "untitled-page",
-      "index-2"
+      "untitled-page"
     ],
     "global": {
       "anchors": [
